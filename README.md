@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Karyna, currently working on growing my knowledge as a Software Engineer. I am a Full-Stack developer and love witing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I'm Karyna, certified Full-Stack developer looking for an apportunity to work for a great company. Passionate about witing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karyna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karyna-code/)](https://www.linkedin.com/in/karyna-code/)
 [![Gmail Badge](https://img.shields.io/badge/-mlatech@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlatech@icloud.com)](mailto:mlatech@icloud.com)
